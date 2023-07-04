@@ -1,3 +1,9 @@
+#Allure
+allure-results
+
+#pytest_cash
+.pytest_cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
